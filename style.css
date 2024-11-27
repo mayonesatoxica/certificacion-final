@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.barra{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(255, 255, 255);
+padding: 20px 40px 20px 40px;
+width: 1200px;
+margin: 0 auto;
+border-color: black;
+border: 2px solid;
+}
+.titulo{
+    font-size: 45px;
+    font-family: cursive;
+}
+.unido{
+    display: flex;
+    }
+.entremedio{
+    align-items: center;
+    display: flex;
+}
+
+.entre{
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 40px 20px 40px;
+    width: 1200px;
+    font-family: cursive;
+    margin: 0 auto;
+    justify-content: space-around;
+    border-color: black;
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+.primero{
+    display: flex;
+}
+.segundo{
+    display: flex;
+}
+.tercero{
+    display: flex;
+}
+.cuarto{
+    display: flex;
+}
+
+.finaldelmedio{
+    display: flex;
+    background-color: rgb(197, 224, 255);
+    font-family: cursive;
+    margin: 0 auto;
+    width: 1200px;
+    justify-content: space-around;
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 70px;
+}
+.libros{
+    margin: 0 auto;
+    width: 1200px;
+    justify-content: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: rgb(218, 218, 218);
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+
+.cienaños img{
+    width: 300px;
+    height: 300px;
+}
+.rayuela img{
+    width: 300px;
+    height: 300px;
+}
+.travesuras img{
+    width: 300px;
+    height: 300px;
+}
+.juntos{
+    display: flex;
+    justify-content: space-around;
+}
